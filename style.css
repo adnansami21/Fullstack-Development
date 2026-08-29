@@ -1,0 +1,38 @@
+*{
+	color: blue;
+}
+ul{
+	background-color: yellow;
+}
+li{
+	list-style: none;
+	display: inline;
+}
+h2{
+	text-align: center;
+	color: red;
+	border: 5px solid green;
+	background-color: pink;
+}
+h1{
+	color: green;
+}
+button{
+	color: red;
+	background-color: yellow;
+	cursor: pointer;
+}
+/*  #myId */
+#headingOne{
+    color: blue;
+}
+#headingTwo{
+	color: red;
+}
+#headingThree{
+	color: black;
+}
+/* .myclass */
+.myclass{
+   color: purple;
+}
