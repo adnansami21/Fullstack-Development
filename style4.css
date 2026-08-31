@@ -1,0 +1,39 @@
+
+body{
+
+}
+h2+p{
+	color: green;
+	text-align: center;
+	border: 5px solid blue;
+}
+p{
+	color: red;
+	
+}
+p{
+	color: black;
+	text-align: center;
+
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+.hi{
+	border: 5px dashed blue;
+	text-align: center;
+
+}
+.active{
+    color: blue;
+}
+#div1{
+	background: yellow;
+	border: 2px solid blue;
+
+}
+#div2{
+	background: pink;
+	border: 2px solid black;
+}
