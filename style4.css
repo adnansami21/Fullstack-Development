@@ -1,5 +1,7 @@
 
 body{
+     background-image: url(img.1.avif);
+     background-size: cover;
 
 }
 h2+p{
@@ -20,7 +22,7 @@ li{
 	list-style: none;
 	display: inline-block;
 }
-.hi{
+.hi:last-child {
 	border: 5px dashed blue;
 	text-align: center;
 
