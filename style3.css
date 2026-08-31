@@ -1,0 +1,39 @@
+*{
+	text-align: right;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+/*
+h2 , p{
+	color: red;
+	text-align: center;
+	border: 5px solid black;
+	cursor: pointer;
+}
+*/
+h2 + p:hover 
+{
+	color: red;
+	text-align: center;
+	border: 5px solid black;
+	cursor: pointer;
+}
+.myclass:first-child
+{
+	    
+	    border: 5px dashed green;
+	    color: red;
+	    text-align: center;
+}
+
+
+#div1{
+	
+	background:yellow;
+}
+#div2{
+	
+	background: pink;
+}
