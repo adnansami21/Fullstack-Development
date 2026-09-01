@@ -1,13 +1,19 @@
 
 body{
-     background-image: url(img.1.avif);
-     background-size: cover;
+     
 
 }
-h2+p{
+h2 + p{
 	color: green;
 	text-align: center;
 	border: 5px solid blue;
+	text-transform: lowercase;
+	text-decoration: none;
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 200%;
+	
 }
 p{
 	color: red;

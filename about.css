@@ -1,0 +1,17 @@
+p{
+	text-decoration: none;
+	border: 5px solid red;
+	text-transform: uppercase;
+	font-style: italic;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+h2{
+	color: blue;
+}
+.boxmodel{
+	border: 5px solid green;
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 0px 20px;
+}
